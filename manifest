@@ -1,0 +1,14 @@
+package_sets:
+  - github: rock-simulation/package_set
+  - github: dfki-ric/bagel_package_set
+
+layout:
+  - bagel/xrock_gui_model
+  - bagel/bagel_db
+  - bagel/bagel_magic
+  - bagel/BagelMARS
+  - bagel/bagel_unit_testing
+  - tools/xrock_bagel_tools
+  - simulation/mars/app
+
+exclude_packages:
