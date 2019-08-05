@@ -10,5 +10,14 @@ layout:
   - bagel/bagel_unit_testing
   - tools/xrock_bagel_tools
   - simulation/mars/app
+  - models/robots/robo2
+  - models/robots/robo3
+  - models/robots/turtlebot
+  - models/robots/stick_insect
+  - models/robots/wheelchair
+  - models/environments/area1
+  - models/environments/area2
+  - models/environments/office1
+  - models/environments/lecture_room
 
 exclude_packages:
