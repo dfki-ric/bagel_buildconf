@@ -10,6 +10,7 @@ layout:
   - bagel/bagel_unit_testing
   - tools/xrock_bagel_tools
   - simulation/mars/app
+  - simulation/mars_extensions/data_broker_graph_view
   - models/robots/robo2
   - models/robots/robo3
   - models/robots/turtlebot
