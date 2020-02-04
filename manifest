@@ -12,6 +12,7 @@ layout:
   - simulation/mars/app
   - simulation/mars_extensions/data_broker_graph_view
   - simulation/mars/plugins/VirtualJoystickPlugin
+  - simulation/mars/plugins/PythonMars
   - models/robots/robo2
   - models/robots/robo3
   - models/robots/turtlebot
