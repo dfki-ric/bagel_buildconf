@@ -1,6 +1,6 @@
 package_sets:
   - github: dfki-ric/ric-package_set
-  - github: dfki-ric/bagel_package_set
+  #- github: dfki-ric/bagel_package_set
 
 layout:
   - bagel/xrock_gui_model
